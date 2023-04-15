@@ -52,3 +52,6 @@ Session.vim
 
 # Visual Studio
 .vs
+
+# ignore __UnrealStuff__
+__External*
