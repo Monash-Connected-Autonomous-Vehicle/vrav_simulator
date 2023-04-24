@@ -5,7 +5,7 @@
 # Do not ignore git files in the root of the repo.
 !/.git*
 
-# Do not ignore gitignore in content
+# Do not ignore .gitignore in Content
 !/Content/.gitignore
 
 # Do not ignore current project's `.uproject`.
