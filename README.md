@@ -1,8 +1,8 @@
 ##   VRAV SIMULATOR PROJECT
 ### From MCAV-X-VRAV TEAM
 
-- Ezazul Hoque
-- Suey Ho
-- Charles Nierves
-- Hubert Rosmin
-- Dang Huynh
+- Victor Huang
+- Chun Heng Chien
+- Amolika Yadav
+- Apramjot Singh
+- Kai Kwan (Allan) Ho
